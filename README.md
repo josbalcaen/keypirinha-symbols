@@ -5,10 +5,10 @@ This is Symbols, a plugin for the
 
 Search for symbols and copy to them to your clipboard.
 
+![](demo.gif)
+
 ## Download
 
-**TODO:** indicate where the latest `.keypirinha-package` file can be
-downloaded. For example a URL to the `releases` list like:
 https://github.com/josbalcaen/keypirinha-symbols/releases/latest
 
 
@@ -35,10 +35,7 @@ Press enter to copy the symbol to your clipboard or press tab to list the copy o
 These include copying the unicode, hex code, html code, css code values.
 
 
-## Change Log
-
-**TODO:** describe notable changes for each release. Below is a template for
-version 1.0.
+## Changes
 
 ### v1.0
 
